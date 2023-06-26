@@ -1,0 +1,10 @@
+import pandas as pd
+import numpy as np
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+import seaborn as sns
+import folium
+import json
+from matplotlib import font_manager, rc
+mpl.rcParams['axes.unicode_minus'] = False
+plt.rc('font', family = 'Malgun Gothic')
